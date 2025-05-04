@@ -16,9 +16,9 @@ App written in Android kotlin that monitors your heart rate in real time on Wear
 
 --------------------------------------------------------------------------------------
 
-
-![heart-bpm-monitor-image](https://github.com/Almir-git-unifc/heart_rate_monitor/blob/main/scr12git.png)
-
+<p align="center">
+  <img src="https://github.com/Almir-git-unifc/heart_rate_monitor/blob/main/scr12git.png" alt="heart-bpm-monitor-image">
+</p>
 
 --------------------------------------------------------------------------------------
 
