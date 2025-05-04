@@ -61,14 +61,15 @@ This Wear OS app uses the Health Services API to retrieve data from the device's
 
 
 
+&nbsp;
 ## Built With 
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 
 
-## Requirements
-#### Android Studio installed
-#### Emulador Android Studio Wear OS Small Round API 34 - Android 14
+### Requirements
+##### Android Studio installed
+##### Emulador Android Studio Wear OS Small Round API 34 - Android 14
 
 
 &nbsp;
